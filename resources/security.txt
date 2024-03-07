@@ -15,3 +15,4 @@ API JWT Zero Downtime Deployment Virtual Machines Frontend Kafka Big Data Automa
 A/B Testing NLP Code Review Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Kafka Success is not in what you have, but who you are. GraphQL RabbitMQ
 Work hard in silence, let your success be your noise. Firewalls Act as if what you do makes a difference. It does. Lambda Functions Parallel Processing CI/CD Automation Cache Invalidation Event-driven Architecture Load Balancing Frontend
 Kafka Sharding Difficult roads often lead to beautiful destinations. Performance Container Orchestration UX Optimization React JavaScript Neural Networks Microservices WebSockets Testing
+Replica Set Containerization Docker Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Pull Request Difficult roads often lead to beautiful destinations. Version Control Load Balancing Agile IoT
