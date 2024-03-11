@@ -25,3 +25,4 @@ Data Pipeline To be the best, you must be able to handle the worst. Success is n
 Algorithm Difficult roads often lead to beautiful destinations. Data Science Big Data Cloud Functions Optimization Predictive Analytics Dream big and dare to fail. Automation API Parallel Processing OAuth Success doesn’t just find you. You have to go out and get it. Deployment Opportunities don't happen. You create them.
 Algorithm Code Review Optimization Neural Networks DevOps Deployment The only way to do great work is to love what you do. Latency Optimization
 Monitoring Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Replica Set Artificial Intelligence Data Science Cloud Message Queue API Gateway Microservices Latency Optimization
+Data Pipeline Sharding Agile Database Indexing Deployment Pull Request Virtual Machines Load Testing Act as if what you do makes a difference. It does.

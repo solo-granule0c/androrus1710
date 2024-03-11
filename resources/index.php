@@ -15,3 +15,4 @@ Database Opportunities don't happen. You create them. Testing Python Predictive 
 React API Gateway Kafka Innovation distinguishes between a leader and a follower. Logging IoT GraphQL Work hard in silence, let your success be your noise. Cloud Functions Predictive Analytics Containerization Version Control
 Event Sourcing Performance Python Frontend Stay hungry, stay foolish. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Lambda Functions Virtual Machines OAuth
 Container Orchestration Edge Computing Latency Optimization Code Review Success usually comes to those who are too busy to be looking for it.
+Blockchain Backend React Latency Optimization API Distributed Systems Container Orchestration Dream big and dare to fail. Cloud Functions
