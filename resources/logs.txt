@@ -18,3 +18,4 @@ Stay hungry, stay foolish. Virtual Machines Success is how high you bounce when 
 Cloud Functions WebSockets Replica Set Machine Learning Scalability Server Response I find that the harder I work, the more luck I seem to have.
 Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Backend A/B Testing Neural Networks Success is how high you bounce when you hit bottom. Parallel Processing OAuth GraphQL Success is not in what you have, but who you are. Monitoring
 Firewalls Machine Learning Microservices Distributed Systems Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Algorithm Data Pipeline Scalability Message Queue Automation A/B Testing Frontend
+Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Event-driven Architecture Security React OAuth Content Delivery Network
