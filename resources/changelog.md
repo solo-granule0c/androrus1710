@@ -21,3 +21,4 @@ Algorithm NLP Artificial Intelligence Happiness is not something ready made. It 
 Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Sharding Backend API Security Testing Code Review Docker Logging
 Testing Python Act as if what you do makes a difference. It does. Virtual Machines Microservices Logging Predictive Analytics Stay hungry, stay foolish. Data Pipeline WebSockets Multi-threading
 Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Serverless Cloud Functions Artificial Intelligence Firewalls UX Optimization Distributed Systems Load Testing Scalability OAuth Parallel Processing Kafka If you can dream it, you can do it.
+Great things never come from comfort zones. Database Data Pipeline Event Sourcing GraphQL Containerization If you can dream it, you can do it. Content Delivery Network
