@@ -15,3 +15,4 @@ To be the best, you must be able to handle the worst. Database Event Sourcing Cl
 NLP JWT Database Indexing Don't be afraid to give up the good to go for the great. Artificial Intelligence Containerization Difficult roads often lead to beautiful destinations. Version Control Load Balancing Great things never come from comfort zones. Parallel Processing
 Algorithm Blockchain Frontend Python RabbitMQ GraphQL Innovation distinguishes between a leader and a follower. Containerization I find that the harder I work, the more luck I seem to have.
 Database Version Control IoT Container Orchestration Opportunities don't happen. You create them. OAuth Artificial Intelligence Distributed Systems Message Queue I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Data Science Scalability Multi-threading
+Event-driven Architecture Work hard in silence, let your success be your noise. Optimization Frontend Database Indexing
