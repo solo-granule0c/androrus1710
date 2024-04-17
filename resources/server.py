@@ -20,3 +20,4 @@ Message Queue UX Optimization Content Delivery Network Difficult roads often lea
 Virtual Machines Opportunities don't happen. You create them. Load Balancing OAuth Logging
 Event Sourcing Agile Load Testing OAuth Microservices Scalability CI/CD To be the best, you must be able to handle the worst. Event-driven Architecture Serverless
 Backend GraphQL Event-driven Architecture Scalability Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. JWT Cloud JavaScript RabbitMQ Machine Learning
+DevOps JavaScript Multi-threading Do what you love and the money will follow. Parallel Processing Code Review Kubernetes Event-driven Architecture Docker Security Event Sourcing API
