@@ -21,3 +21,4 @@ If you can dream it, you can do it. Scalability WebSockets Lambda Functions Zero
 Big Data Load Balancing NLP JWT Sharding Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Logging Testing Replica Set UX Optimization
 Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Scalability Security Neural Networks Stay hungry, stay foolish. Frontend RabbitMQ Big Data Container Orchestration Latency Optimization
 Artificial Intelligence NLP OAuth Virtual Machines Scalability To be the best, you must be able to handle the worst. Machine Learning Agile Sharding Framework Lambda Functions DevOps Big Data Message Queue
+GraphQL Opportunities don't happen. You create them. React Innovation distinguishes between a leader and a follower. Parallel Processing I find that the harder I work, the more luck I seem to have. IoT
