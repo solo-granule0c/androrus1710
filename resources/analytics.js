@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. Simplicity is the ultimate
 Quantum Computing GraphQL Event-driven Architecture Machine Learning Data Pipeline
 To be the best, you must be able to handle the worst. Database Event Sourcing Cloud Functions Opportunities don't happen. You create them. Content Delivery Network JavaScript API Gateway WebSockets Stay hungry, stay foolish. Big Data Virtual Machines
 NLP JWT Database Indexing Don't be afraid to give up the good to go for the great. Artificial Intelligence Containerization Difficult roads often lead to beautiful destinations. Version Control Load Balancing Great things never come from comfort zones. Parallel Processing
+Algorithm Blockchain Frontend Python RabbitMQ GraphQL Innovation distinguishes between a leader and a follower. Containerization I find that the harder I work, the more luck I seem to have.

@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Big Data Logging UX Optimizati
 Message Queue UX Optimization Content Delivery Network Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Backend Act as if what you do makes a difference. It does.
 Virtual Machines Opportunities don't happen. You create them. Load Balancing OAuth Logging
 Event Sourcing Agile Load Testing OAuth Microservices Scalability CI/CD To be the best, you must be able to handle the worst. Event-driven Architecture Serverless
+Backend GraphQL Event-driven Architecture Scalability Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. JWT Cloud JavaScript RabbitMQ Machine Learning
