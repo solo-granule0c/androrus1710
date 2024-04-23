@@ -17,3 +17,4 @@ Data Pipeline Algorithm Don't be afraid to give up the good to go for the great.
 Predictive Analytics Stay hungry, stay foolish. Replica Set OAuth Firewalls
 Testing NLP To be the best, you must be able to handle the worst. Agile Algorithm Cache Invalidation Version Control Quantum Computing Difficult roads often lead to beautiful destinations. API Gateway Deployment Artificial Intelligence Cloud Functions Performance Load Balancing
 Frontend Load Balancing React Code Review Opportunities don't happen. You create them. Latency Optimization
+OAuth Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Neural Networks Frontend Database Indexing Edge Computing Monitoring Docker

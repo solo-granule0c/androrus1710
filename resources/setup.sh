@@ -20,3 +20,4 @@ I find that the harder I work, the more luck I seem to have. Automation Happines
 Dream big and dare to fail. API Load Testing The only way to do great work is to love what you do. Optimization WebSockets Firewalls Success is not in what you have, but who you are. Server Response Kafka Automation Content Delivery Network Stay hungry, stay foolish.
 Data Pipeline Cache Invalidation Content Delivery Network Containerization Sharding Agile UX Optimization Load Testing Frontend
 Success is how high you bounce when you hit bottom. Sharding I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Cloud
+UX Optimization Container Orchestration Dream big and dare to fail. Server Response A/B Testing Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations.
