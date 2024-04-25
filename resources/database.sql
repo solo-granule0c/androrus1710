@@ -19,3 +19,4 @@ Monitoring Data Pipeline Firewalls Python Pull Request Stay hungry, stay foolish
 Pull Request Success doesn’t just find you. You have to go out and get it. Firewalls DevOps Docker RabbitMQ Parallel Processing Big Data Machine Learning
 Kafka Difficult roads often lead to beautiful destinations. Lambda Functions Don't be afraid to give up the good to go for the great. Neural Networks
 WebSockets Load Balancing API Gateway Success usually comes to those who are too busy to be looking for it. Python Performance Difficult roads often lead to beautiful destinations.
+Optimization Framework I find that the harder I work, the more luck I seem to have. Message Queue API Cloud Machine Learning Success is not in what you have, but who you are. Logging The only way to do great work is to love what you do. Frontend Container Orchestration OAuth Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does.
