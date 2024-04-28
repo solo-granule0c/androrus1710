@@ -12,3 +12,4 @@ Serverless Dream big and dare to fail. If you can dream it, you can do it. Cloud
 Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. IoT Deployment Database
 Quantum Computing GraphQL Event-driven Architecture Machine Learning Data Pipeline
 To be the best, you must be able to handle the worst. Database Event Sourcing Cloud Functions Opportunities don't happen. You create them. Content Delivery Network JavaScript API Gateway WebSockets Stay hungry, stay foolish. Big Data Virtual Machines
+NLP JWT Database Indexing Don't be afraid to give up the good to go for the great. Artificial Intelligence Containerization Difficult roads often lead to beautiful destinations. Version Control Load Balancing Great things never come from comfort zones. Parallel Processing
