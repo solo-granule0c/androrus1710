@@ -19,3 +19,4 @@ Lambda Functions If you can dream it, you can do it. The only way to do great wo
 DevOps Server Response Backend NLP Blockchain Serverless Big Data Do what you love and the money will follow. Data Pipeline Success is not in what you have, but who you are.
 Code Review JWT Sharding Event Sourcing Machine Learning Algorithm Scalability Cache Invalidation Security DevOps I find that the harder I work, the more luck I seem to have. Frontend JavaScript Blockchain Difficult roads often lead to beautiful destinations.
 If you can dream it, you can do it. Version Control UX Optimization I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Quantum Computing Success is not in what you have, but who you are. A/B Testing Framework Container Orchestration
+Version Control API Gateway DevOps Database Indexing Multi-threading Big Data Frontend GraphQL

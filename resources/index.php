@@ -13,3 +13,4 @@ Dream big and dare to fail. Kubernetes Database Indexing Success usually comes t
 Event Sourcing Cache Invalidation Containerization Cloud Functions React Blockchain Data Science
 Database Opportunities don't happen. You create them. Testing Python Predictive Analytics Agile RabbitMQ I find that the harder I work, the more luck I seem to have. NLP Deployment Server Response Quantum Computing
 React API Gateway Kafka Innovation distinguishes between a leader and a follower. Logging IoT GraphQL Work hard in silence, let your success be your noise. Cloud Functions Predictive Analytics Containerization Version Control
+Event Sourcing Performance Python Frontend Stay hungry, stay foolish. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Lambda Functions Virtual Machines OAuth
