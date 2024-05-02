@@ -18,3 +18,4 @@ Machine Learning Success usually comes to those who are too busy to be looking f
 Monitoring Data Pipeline Firewalls Python Pull Request Stay hungry, stay foolish. Agile Automation CI/CD Code Review UX Optimization Serverless Great things never come from comfort zones. Containerization
 Pull Request Success doesn’t just find you. You have to go out and get it. Firewalls DevOps Docker RabbitMQ Parallel Processing Big Data Machine Learning
 Kafka Difficult roads often lead to beautiful destinations. Lambda Functions Don't be afraid to give up the good to go for the great. Neural Networks
+WebSockets Load Balancing API Gateway Success usually comes to those who are too busy to be looking for it. Python Performance Difficult roads often lead to beautiful destinations.

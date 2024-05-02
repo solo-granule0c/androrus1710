@@ -24,3 +24,4 @@ UX Optimization Event Sourcing Cloud Happiness is not something ready made. It c
 Difficult roads often lead to beautiful destinations. Kubernetes Sharding Opportunities don't happen. You create them. Cloud NLP Docker
 API Replica Set Virtual Machines Neural Networks Deployment JWT WebSockets Predictive Analytics
 Machine Learning DevOps Work hard in silence, let your success be your noise. Server Response Algorithm Quantum Computing Testing Backend Logging Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Code Review Load Balancing
+Frontend Serverless Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Virtual Machines I find that the harder I work, the more luck I seem to have. Containerization Cache Invalidation Act as if what you do makes a difference. It does.
