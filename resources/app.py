@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Distributed Systems Suc
 Data Pipeline Algorithm Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Container Orchestration Happiness is not something ready made. It comes from your own actions. Frontend Logging
 Predictive Analytics Stay hungry, stay foolish. Replica Set OAuth Firewalls
 Testing NLP To be the best, you must be able to handle the worst. Agile Algorithm Cache Invalidation Version Control Quantum Computing Difficult roads often lead to beautiful destinations. API Gateway Deployment Artificial Intelligence Cloud Functions Performance Load Balancing
+Frontend Load Balancing React Code Review Opportunities don't happen. You create them. Latency Optimization
