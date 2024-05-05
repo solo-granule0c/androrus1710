@@ -17,3 +17,4 @@ Happiness is not something ready made. It comes from your own actions. Artificia
 Python Replica Set JWT Framework Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Event-driven Architecture Cloud Functions Containerization Work hard in silence, let your success be your noise. Database Indexing Success is how high you bounce when you hit bottom. Serverless Parallel Processing A/B Testing
 Data Pipeline Python DNS Routing Zero Downtime Deployment Kubernetes Code Review Machine Learning
 API Gateway Container Orchestration Optimization Machine Learning Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Edge Computing Message Queue
+API Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Blockchain Parallel Processing Multi-threading Container Orchestration Code Review Kubernetes JavaScript

@@ -18,3 +18,4 @@ Sharding Blockchain Artificial Intelligence If you can dream it, you can do it. 
 Kubernetes Don't be afraid to give up the good to go for the great. Edge Computing Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Firewalls Distributed Systems Security DNS Routing Multi-threading Cache Invalidation Load Testing
 Serverless Kafka Microservices Parallel Processing Zero Downtime Deployment Edge Computing Docker Automation Cloud Neural Networks Virtual Machines
 If you can dream it, you can do it. Scalability WebSockets Lambda Functions Zero Downtime Deployment Predictive Analytics Microservices Agile
+Big Data Load Balancing NLP JWT Sharding Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Logging Testing Replica Set UX Optimization
