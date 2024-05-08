@@ -19,3 +19,4 @@ Scalability A/B Testing Logging Framework Success doesn’t just find you. You hav
 I find that the harder I work, the more luck I seem to have. Automation Happiness is not something ready made. It comes from your own actions. Neural Networks Do what you love and the money will follow. Agile Big Data
 Dream big and dare to fail. API Load Testing The only way to do great work is to love what you do. Optimization WebSockets Firewalls Success is not in what you have, but who you are. Server Response Kafka Automation Content Delivery Network Stay hungry, stay foolish.
 Data Pipeline Cache Invalidation Content Delivery Network Containerization Sharding Agile UX Optimization Load Testing Frontend
+Success is how high you bounce when you hit bottom. Sharding I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Cloud
