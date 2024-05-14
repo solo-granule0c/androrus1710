@@ -21,3 +21,4 @@ Innovation distinguishes between a leader and a follower. JWT Event-driven Archi
 Latency Optimization UX Optimization Replica Set JavaScript Act as if what you do makes a difference. It does. Testing Parallel Processing Database Cloud
 Version Control Backend API OAuth Algorithm Microservices Lambda Functions Serverless Simplicity is the ultimate sophistication. Cache Invalidation
 Performance Quantum Computing Edge Computing Success doesn’t just find you. You have to go out and get it. Database Indexing If you can dream it, you can do it. Security Act as if what you do makes a difference. It does. Logging Big Data API Gateway
+RabbitMQ DNS Routing Dream big and dare to fail. JWT Docker Performance Cloud Content Delivery Network JavaScript Containerization CI/CD Quantum Computing Machine Learning
