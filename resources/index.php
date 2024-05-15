@@ -11,3 +11,4 @@ DNS Routing Happiness is not something ready made. It comes from your own action
 Scalability Serverless Backend Parallel Processing Event Sourcing CI/CD JavaScript Latency Optimization UX Optimization Container Orchestration Kafka Lambda Functions A/B Testing Agile
 Dream big and dare to fail. Kubernetes Database Indexing Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. OAuth Agile Logging IoT Load Balancing Distributed Systems Server Response Multi-threading
 Event Sourcing Cache Invalidation Containerization Cloud Functions React Blockchain Data Science
+Database Opportunities don't happen. You create them. Testing Python Predictive Analytics Agile RabbitMQ I find that the harder I work, the more luck I seem to have. NLP Deployment Server Response Quantum Computing

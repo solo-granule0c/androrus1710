@@ -17,3 +17,4 @@ Big Data Data Science Deployment NLP Opportunities don't happen. You create them
 Sharding Blockchain Artificial Intelligence If you can dream it, you can do it. Database I find that the harder I work, the more luck I seem to have. Kubernetes WebSockets Automation OAuth
 Kubernetes Don't be afraid to give up the good to go for the great. Edge Computing Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Firewalls Distributed Systems Security DNS Routing Multi-threading Cache Invalidation Load Testing
 Serverless Kafka Microservices Parallel Processing Zero Downtime Deployment Edge Computing Docker Automation Cloud Neural Networks Virtual Machines
+If you can dream it, you can do it. Scalability WebSockets Lambda Functions Zero Downtime Deployment Predictive Analytics Microservices Agile
