@@ -22,3 +22,4 @@ Framework Kubernetes DNS Routing Innovation distinguishes between a leader and a
 Neural Networks Cache Invalidation Message Queue Distributed Systems Kubernetes API Gateway
 UX Optimization Event Sourcing Cloud Happiness is not something ready made. It comes from your own actions. Containerization Monitoring Message Queue CI/CD Great things never come from comfort zones. Automation Firewalls Do what you love and the money will follow.
 Difficult roads often lead to beautiful destinations. Kubernetes Sharding Opportunities don't happen. You create them. Cloud NLP Docker
+API Replica Set Virtual Machines Neural Networks Deployment JWT WebSockets Predictive Analytics
