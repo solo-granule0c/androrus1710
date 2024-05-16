@@ -19,3 +19,4 @@ Parallel Processing Happiness is not something ready made. It comes from your ow
 GraphQL Automation Simplicity is the ultimate sophistication. Multi-threading API Gateway Serverless Success usually comes to those who are too busy to be looking for it. Message Queue Edge Computing Neural Networks Don't be afraid to give up the good to go for the great. Security CI/CD Docker
 Algorithm NLP Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Version Control Machine Learning IoT UX Optimization
 Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Sharding Backend API Security Testing Code Review Docker Logging
+Testing Python Act as if what you do makes a difference. It does. Virtual Machines Microservices Logging Predictive Analytics Stay hungry, stay foolish. Data Pipeline WebSockets Multi-threading

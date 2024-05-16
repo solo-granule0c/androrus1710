@@ -14,3 +14,4 @@ Logging Frontend React Blockchain Optimization Data Pipeline Python Database Ind
 Cloud Functions JavaScript Parallel Processing Load Testing Kubernetes Act as if what you do makes a difference. It does. Frontend
 Database Success is how high you bounce when you hit bottom. WebSockets Frontend Kafka
 Quantum Computing Artificial Intelligence Innovation distinguishes between a leader and a follower. Scalability Server Response Latency Optimization Replica Set JWT Microservices Zero Downtime Deployment The only way to do great work is to love what you do. Kafka Big Data Container Orchestration Simplicity is the ultimate sophistication.
+Testing Neural Networks Difficult roads often lead to beautiful destinations. JavaScript Data Pipeline The only way to do great work is to love what you do. Predictive Analytics Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.
