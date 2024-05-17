@@ -21,3 +21,4 @@ Backend Innovation distinguishes between a leader and a follower. IoT Machine Le
 Framework Kubernetes DNS Routing Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Distributed Systems Sharding Data Science Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Firewalls NLP Load Testing Container Orchestration DevOps
 Neural Networks Cache Invalidation Message Queue Distributed Systems Kubernetes API Gateway
 UX Optimization Event Sourcing Cloud Happiness is not something ready made. It comes from your own actions. Containerization Monitoring Message Queue CI/CD Great things never come from comfort zones. Automation Firewalls Do what you love and the money will follow.
+Difficult roads often lead to beautiful destinations. Kubernetes Sharding Opportunities don't happen. You create them. Cloud NLP Docker
