@@ -16,3 +16,4 @@ RabbitMQ Zero Downtime Deployment Scalability Sharding Success is not in what yo
 Content Delivery Network Performance Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Message Queue Act as if what you do makes a difference. It does.
 RabbitMQ CI/CD Parallel Processing Cache Invalidation Multi-threading Predictive Analytics React
 Scalability A/B Testing Logging Framework Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Backend Neural Networks NLP The only way to do great work is to love what you do.
+I find that the harder I work, the more luck I seem to have. Automation Happiness is not something ready made. It comes from your own actions. Neural Networks Do what you love and the money will follow. Agile Big Data
