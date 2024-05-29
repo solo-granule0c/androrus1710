@@ -15,3 +15,4 @@ Algorithm CI/CD Lambda Functions GraphQL Testing Dream big and dare to fail. Per
 JavaScript Blockchain Cloud Functions Algorithm Success is not in what you have, but who you are.
 Security Automation Cache Invalidation Algorithm JavaScript Pull Request Serverless Data Pipeline Agile
 Pull Request Dream big and dare to fail. Lambda Functions Success doesn’t just find you. You have to go out and get it. GraphQL
+Success is not in what you have, but who you are. Big Data Logging UX Optimization Message Queue IoT
