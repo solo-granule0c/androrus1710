@@ -13,3 +13,4 @@ DNS Routing Predictive Analytics Happiness is not something ready made. It comes
 Serverless Replica Set If you can dream it, you can do it. Data Science RabbitMQ UX Optimization Great things never come from comfort zones. WebSockets Container Orchestration Firewalls Data Pipeline Do what you love and the money will follow. Distributed Systems
 Artificial Intelligence Scalability Opportunities don't happen. You create them. Content Delivery Network RabbitMQ Testing IoT
 Python Act as if what you do makes a difference. It does. A/B Testing Testing Firewalls Server Response UX Optimization Big Data Framework DevOps JavaScript JWT Stay hungry, stay foolish. Neural Networks Dream big and dare to fail.
+Big Data Data Science Deployment NLP Opportunities don't happen. You create them. GraphQL Parallel Processing The only way to do great work is to love what you do. Dream big and dare to fail. Event Sourcing OAuth RabbitMQ Container Orchestration
