@@ -20,3 +20,4 @@ Sharding Container Orchestration Firewalls I find that the harder I work, the mo
 To be the best, you must be able to handle the worst. Dream big and dare to fail. Serverless The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Load Balancing Edge Computing JavaScript Frontend
 Dream big and dare to fail. Event-driven Architecture Data Science Algorithm To be the best, you must be able to handle the worst. GraphQL Difficult roads often lead to beautiful destinations.
 Data Pipeline Pull Request Serverless To be the best, you must be able to handle the worst. Cloud Functions Container Orchestration Lambda Functions Algorithm Performance Logging JWT Sharding Firewalls
+Success doesn’t just find you. You have to go out and get it. Frontend Firewalls Database Distributed Systems Optimization Cloud Functions Agile Event-driven Architecture Algorithm
