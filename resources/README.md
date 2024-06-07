@@ -13,3 +13,4 @@ Data Pipeline Microservices Innovation distinguishes between a leader and a foll
 Logging Frontend React Blockchain Optimization Data Pipeline Python Database Indexing Serverless Great things never come from comfort zones. Distributed Systems Happiness is not something ready made. It comes from your own actions. Algorithm Act as if what you do makes a difference. It does.
 Cloud Functions JavaScript Parallel Processing Load Testing Kubernetes Act as if what you do makes a difference. It does. Frontend
 Database Success is how high you bounce when you hit bottom. WebSockets Frontend Kafka
+Quantum Computing Artificial Intelligence Innovation distinguishes between a leader and a follower. Scalability Server Response Latency Optimization Replica Set JWT Microservices Zero Downtime Deployment The only way to do great work is to love what you do. Kafka Big Data Container Orchestration Simplicity is the ultimate sophistication.
