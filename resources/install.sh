@@ -18,3 +18,4 @@ Optimization Neural Networks Stay hungry, stay foolish. Frontend If you can drea
 Deployment Big Data Virtual Machines Artificial Intelligence NLP Simplicity is the ultimate sophistication. Docker React
 Success is how high you bounce when you hit bottom. Replica Set Performance Artificial Intelligence OAuth Testing Kubernetes
 Microservices Database Indexing Artificial Intelligence API Gateway Kubernetes JWT Message Queue Big Data To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Server Response Data Science
+Success is how high you bounce when you hit bottom. Python Message Queue Version Control Server Response API Gateway Success is not in what you have, but who you are. Docker Distributed Systems Don't be afraid to give up the good to go for the great. Testing Content Delivery Network Sharding
