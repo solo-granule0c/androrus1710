@@ -13,3 +13,4 @@ Success usually comes to those who are too busy to be looking for it. Monitoring
 Scalability Cloud Parallel Processing Cache Invalidation Kubernetes Success doesn’t just find you. You have to go out and get it. Logging
 Algorithm CI/CD Lambda Functions GraphQL Testing Dream big and dare to fail. Performance Parallel Processing DNS Routing Deployment
 JavaScript Blockchain Cloud Functions Algorithm Success is not in what you have, but who you are.
+Security Automation Cache Invalidation Algorithm JavaScript Pull Request Serverless Data Pipeline Agile
