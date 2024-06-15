@@ -16,3 +16,4 @@ JavaScript JWT Act as if what you do makes a difference. It does. Event-driven A
 Big Data Microservices A/B Testing Pull Request Latency Optimization
 Machine Learning Success usually comes to those who are too busy to be looking for it. Version Control Monitoring Framework RabbitMQ API Gateway DNS Routing Server Response Parallel Processing Predictive Analytics Database Frontend JWT Kafka
 Monitoring Data Pipeline Firewalls Python Pull Request Stay hungry, stay foolish. Agile Automation CI/CD Code Review UX Optimization Serverless Great things never come from comfort zones. Containerization
+Pull Request Success doesn’t just find you. You have to go out and get it. Firewalls DevOps Docker RabbitMQ Parallel Processing Big Data Machine Learning
