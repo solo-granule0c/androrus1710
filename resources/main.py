@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. Version Control UX
 Testing RabbitMQ Artificial Intelligence Python Replica Set
 Backend Innovation distinguishes between a leader and a follower. IoT Machine Learning React Happiness is not something ready made. It comes from your own actions. Database Load Testing
 Framework Kubernetes DNS Routing Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Distributed Systems Sharding Data Science Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Firewalls NLP Load Testing Container Orchestration DevOps
+Neural Networks Cache Invalidation Message Queue Distributed Systems Kubernetes API Gateway

@@ -16,3 +16,4 @@ Message Queue Microservices Success is not in what you have, but who you are. Al
 Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Automation Success is not in what you have, but who you are. Firewalls Virtual Machines Sharding Great things never come from comfort zones. Code Review
 Serverless Backend Load Testing Server Response Sharding Cache Invalidation React Monitoring Act as if what you do makes a difference. It does.
 Zero Downtime Deployment Act as if what you do makes a difference. It does. Content Delivery Network A/B Testing Python Success usually comes to those who are too busy to be looking for it. WebSockets Algorithm
+Sharding Container Orchestration Firewalls I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Docker Python
