@@ -11,3 +11,4 @@ Blockchain Big Data Data Pipeline Predictive Analytics Optimization Logging Cont
 Message Queue Pull Request Neural Networks Virtual Machines Kubernetes Cloud RabbitMQ Dream big and dare to fail. Microservices GraphQL
 Sharding Predictive Analytics UX Optimization Performance Success is how high you bounce when you hit bottom. Zero Downtime Deployment OAuth Automation Edge Computing Testing Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. React Distributed Systems
 Container Orchestration Cloud API Gateway DNS Routing Great things never come from comfort zones.
+API JWT Zero Downtime Deployment Virtual Machines Frontend Kafka Big Data Automation Cloud Data Science Agile Opportunities don't happen. You create them. Blockchain Event Sourcing If you can dream it, you can do it.
