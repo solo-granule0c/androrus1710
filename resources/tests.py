@@ -14,3 +14,4 @@ Cloud Functions DNS Routing Lambda Functions Logging Automation Predictive Analy
 JWT Do what you love and the money will follow. Multi-threading The only way to do great work is to love what you do. Agile IoT
 Pull Request Quantum Computing Version Control GraphQL Distributed Systems Machine Learning
 API Gateway Data Science Blockchain Difficult roads often lead to beautiful destinations. JavaScript Don't be afraid to give up the good to go for the great. Kafka Performance Artificial Intelligence Innovation distinguishes between a leader and a follower.
+Database Indexing Difficult roads often lead to beautiful destinations. API Code Review Edge Computing Container Orchestration Predictive Analytics Containerization Testing Logging Stay hungry, stay foolish. Optimization Success doesn’t just find you. You have to go out and get it. Machine Learning WebSockets
