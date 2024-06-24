@@ -15,3 +15,4 @@ Database OAuth Algorithm Testing A/B Testing To be the best, you must be able to
 JavaScript JWT Act as if what you do makes a difference. It does. Event-driven Architecture Data Science IoT Optimization Automation Success doesn’t just find you. You have to go out and get it. CI/CD Work hard in silence, let your success be your noise. NLP Performance
 Big Data Microservices A/B Testing Pull Request Latency Optimization
 Machine Learning Success usually comes to those who are too busy to be looking for it. Version Control Monitoring Framework RabbitMQ API Gateway DNS Routing Server Response Parallel Processing Predictive Analytics Database Frontend JWT Kafka
+Monitoring Data Pipeline Firewalls Python Pull Request Stay hungry, stay foolish. Agile Automation CI/CD Code Review UX Optimization Serverless Great things never come from comfort zones. Containerization

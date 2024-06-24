@@ -10,3 +10,4 @@ To be the best, you must be able to handle the worst. Testing Machine Learning D
 Framework Kubernetes The only way to do great work is to love what you do. Server Response Performance Act as if what you do makes a difference. It does. Event-driven Architecture Database Indexing Success is not in what you have, but who you are. Container Orchestration
 API Gateway Message Queue API Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Neural Networks To be the best, you must be able to handle the worst. JavaScript
 Performance If you can dream it, you can do it. OAuth Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Replica Set Sharding Firewalls Big Data Monitoring Backend Cache Invalidation Latency Optimization Distributed Systems
+Algorithm Performance Great things never come from comfort zones. Optimization Work hard in silence, let your success be your noise. Kafka
