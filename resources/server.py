@@ -11,3 +11,4 @@ UX Optimization Don't be afraid to give up the good to go for the great. I find 
 Kubernetes Blockchain Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Latency Optimization Kafka Load Testing Zero Downtime Deployment CI/CD Logging Monitoring Predictive Analytics Code Review Database Docker
 Success usually comes to those who are too busy to be looking for it. Monitoring Neural Networks Distributed Systems Artificial Intelligence Simplicity is the ultimate sophistication. Machine Learning Edge Computing UX Optimization Opportunities don't happen. You create them. A/B Testing Do what you love and the money will follow. Containerization Load Balancing Python
 Scalability Cloud Parallel Processing Cache Invalidation Kubernetes Success doesn’t just find you. You have to go out and get it. Logging
+Algorithm CI/CD Lambda Functions GraphQL Testing Dream big and dare to fail. Performance Parallel Processing DNS Routing Deployment
