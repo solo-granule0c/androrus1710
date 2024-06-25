@@ -17,3 +17,4 @@ Machine Learning Data Pipeline IoT Code Review Simplicity is the ultimate sophis
 Deployment NLP WebSockets To be the best, you must be able to handle the worst. Cache Invalidation DNS Routing Opportunities don't happen. You create them. IoT Logging
 Success doesn’t just find you. You have to go out and get it. Version Control UX Optimization If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Edge Computing Event-driven Architecture Framework Kubernetes Big Data Sharding
 Testing RabbitMQ Artificial Intelligence Python Replica Set
+Backend Innovation distinguishes between a leader and a follower. IoT Machine Learning React Happiness is not something ready made. It comes from your own actions. Database Load Testing
