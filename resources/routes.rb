@@ -10,3 +10,4 @@ Distributed Systems Act as if what you do makes a difference. It does. Cloud Fun
 Edge Computing Load Testing Kubernetes Virtual Machines GraphQL Do what you love and the money will follow. Replica Set
 Optimization Firewalls IoT Scalability Success doesn’t just find you. You have to go out and get it. Version Control Monitoring Success is not in what you have, but who you are. Microservices Virtual Machines Algorithm RabbitMQ
 DNS Routing Predictive Analytics Happiness is not something ready made. It comes from your own actions. Database Edge Computing Microservices Performance Difficult roads often lead to beautiful destinations. Latency Optimization Scalability
+Serverless Replica Set If you can dream it, you can do it. Data Science RabbitMQ UX Optimization Great things never come from comfort zones. WebSockets Container Orchestration Firewalls Data Pipeline Do what you love and the money will follow. Distributed Systems
