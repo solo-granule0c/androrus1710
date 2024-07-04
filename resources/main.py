@@ -15,3 +15,4 @@ Data Pipeline Do what you love and the money will follow. The only way to do gre
 I find that the harder I work, the more luck I seem to have. Cloud Edge Computing Frontend Sharding React Message Queue Database Indexing Parallel Processing The only way to do great work is to love what you do. Quantum Computing If you can dream it, you can do it. JWT API WebSockets
 Machine Learning Data Pipeline IoT Code Review Simplicity is the ultimate sophistication.
 Deployment NLP WebSockets To be the best, you must be able to handle the worst. Cache Invalidation DNS Routing Opportunities don't happen. You create them. IoT Logging
+Success doesn’t just find you. You have to go out and get it. Version Control UX Optimization If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Edge Computing Event-driven Architecture Framework Kubernetes Big Data Sharding

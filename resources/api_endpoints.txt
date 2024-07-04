@@ -14,3 +14,4 @@ Great things never come from comfort zones. Zero Downtime Deployment GraphQL Fir
 CI/CD Distributed Systems Deployment Parallel Processing Big Data Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Sharding Testing
 Stay hungry, stay foolish. Latency Optimization Sharding Parallel Processing Containerization Deployment Load Balancing IoT Edge Computing
 Docker OAuth Happiness is not something ready made. It comes from your own actions. Frontend Success is how high you bounce when you hit bottom. Load Testing Performance Dream big and dare to fail. Zero Downtime Deployment Success is not in what you have, but who you are. Content Delivery Network IoT Optimization Latency Optimization
+Containerization Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Logging Quantum Computing Big Data Docker Do what you love and the money will follow.
