@@ -12,3 +12,4 @@ Blockchain Work hard in silence, let your success be your noise. OAuth Server Re
 Data Pipeline Microservices Innovation distinguishes between a leader and a follower. A/B Testing Success is how high you bounce when you hit bottom.
 Logging Frontend React Blockchain Optimization Data Pipeline Python Database Indexing Serverless Great things never come from comfort zones. Distributed Systems Happiness is not something ready made. It comes from your own actions. Algorithm Act as if what you do makes a difference. It does.
 Cloud Functions JavaScript Parallel Processing Load Testing Kubernetes Act as if what you do makes a difference. It does. Frontend
+Database Success is how high you bounce when you hit bottom. WebSockets Frontend Kafka

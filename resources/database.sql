@@ -13,3 +13,4 @@ Edge Computing React Cache Invalidation Work hard in silence, let your success b
 Cache Invalidation Zero Downtime Deployment Predictive Analytics CI/CD RabbitMQ GraphQL Frontend
 Database OAuth Algorithm Testing A/B Testing To be the best, you must be able to handle the worst.
 JavaScript JWT Act as if what you do makes a difference. It does. Event-driven Architecture Data Science IoT Optimization Automation Success doesn’t just find you. You have to go out and get it. CI/CD Work hard in silence, let your success be your noise. NLP Performance
+Big Data Microservices A/B Testing Pull Request Latency Optimization
