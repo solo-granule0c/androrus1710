@@ -17,3 +17,4 @@ Load Balancing Zero Downtime Deployment GraphQL CI/CD Great things never come fr
 Optimization Neural Networks Stay hungry, stay foolish. Frontend If you can dream it, you can do it. Scalability Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Kafka Cloud React Algorithm Performance Parallel Processing Pull Request
 Deployment Big Data Virtual Machines Artificial Intelligence NLP Simplicity is the ultimate sophistication. Docker React
 Success is how high you bounce when you hit bottom. Replica Set Performance Artificial Intelligence OAuth Testing Kubernetes
+Microservices Database Indexing Artificial Intelligence API Gateway Kubernetes JWT Message Queue Big Data To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Server Response Data Science
