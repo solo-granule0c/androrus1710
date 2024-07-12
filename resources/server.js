@@ -14,3 +14,4 @@ Distributed Systems Success doesn’t just find you. You have to go out and get it
 Cloud Functions GraphQL JavaScript Pull Request Don't be afraid to give up the good to go for the great. DNS Routing Data Pipeline Firewalls CI/CD If you can dream it, you can do it. IoT Simplicity is the ultimate sophistication. Zero Downtime Deployment Event Sourcing Database Indexing
 Message Queue Microservices Success is not in what you have, but who you are. Algorithm DevOps JWT Multi-threading Backend Happiness is not something ready made. It comes from your own actions.
 Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Automation Success is not in what you have, but who you are. Firewalls Virtual Machines Sharding Great things never come from comfort zones. Code Review
+Serverless Backend Load Testing Server Response Sharding Cache Invalidation React Monitoring Act as if what you do makes a difference. It does.
