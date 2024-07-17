@@ -16,3 +16,4 @@ Success doesn’t just find you. You have to go out and get it. Logging Security E
 Load Balancing Zero Downtime Deployment GraphQL CI/CD Great things never come from comfort zones.
 Optimization Neural Networks Stay hungry, stay foolish. Frontend If you can dream it, you can do it. Scalability Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Kafka Cloud React Algorithm Performance Parallel Processing Pull Request
 Deployment Big Data Virtual Machines Artificial Intelligence NLP Simplicity is the ultimate sophistication. Docker React
+Success is how high you bounce when you hit bottom. Replica Set Performance Artificial Intelligence OAuth Testing Kubernetes
