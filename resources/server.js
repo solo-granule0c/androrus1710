@@ -11,3 +11,4 @@ Sharding DNS Routing Kubernetes CI/CD If you can dream it, you can do it. OAuth 
 Content Delivery Network Automation Great things never come from comfort zones. Python Lambda Functions
 Frontend JavaScript Difficult roads often lead to beautiful destinations. Python Innovation distinguishes between a leader and a follower. Data Science Lambda Functions Parallel Processing
 Distributed Systems Success doesn’t just find you. You have to go out and get it. CI/CD Version Control Docker Neural Networks Performance Cache Invalidation Backend NLP Work hard in silence, let your success be your noise. Cloud Functions
+Cloud Functions GraphQL JavaScript Pull Request Don't be afraid to give up the good to go for the great. DNS Routing Data Pipeline Firewalls CI/CD If you can dream it, you can do it. IoT Simplicity is the ultimate sophistication. Zero Downtime Deployment Event Sourcing Database Indexing
