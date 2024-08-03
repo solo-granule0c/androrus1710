@@ -15,3 +15,4 @@ Container Orchestration Blockchain Machine Learning RabbitMQ Don't be afraid to 
 Lambda Functions Predictive Analytics Docker Microservices I find that the harder I work, the more luck I seem to have. Sharding
 Firewalls Work hard in silence, let your success be your noise. Cache Invalidation Big Data Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Distributed Systems Deployment Performance Version Control Kubernetes JWT Database Message Queue Dream big and dare to fail.
 Agile Database Sharding Quantum Computing Frontend Framework Containerization Security Machine Learning Docker Data Science Server Response I find that the harder I work, the more luck I seem to have. JavaScript
+Multi-threading Data Pipeline JavaScript CI/CD Cache Invalidation Database Opportunities don't happen. You create them. Microservices
