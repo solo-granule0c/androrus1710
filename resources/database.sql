@@ -11,3 +11,4 @@ Containerization Parallel Processing Optimization Artificial Intelligence Micros
 Content Delivery Network API Gateway Success usually comes to those who are too busy to be looking for it. Kafka Microservices
 Edge Computing React Cache Invalidation Work hard in silence, let your success be your noise. Do what you love and the money will follow. Stay hungry, stay foolish. Data Pipeline Deployment Optimization Success is not in what you have, but who you are.
 Cache Invalidation Zero Downtime Deployment Predictive Analytics CI/CD RabbitMQ GraphQL Frontend
+Database OAuth Algorithm Testing A/B Testing To be the best, you must be able to handle the worst.
