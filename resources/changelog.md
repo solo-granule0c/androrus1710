@@ -14,3 +14,4 @@ Frontend Neural Networks Replica Set If you can dream it, you can do it. Success
 If you can dream it, you can do it. Big Data Lambda Functions Cloud Functions Deployment Great things never come from comfort zones. Agile Pull Request
 Performance Edge Computing Agile Automation Monitoring DevOps Data Science Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Kubernetes
 Do what you love and the money will follow. React Lambda Functions Difficult roads often lead to beautiful destinations. Python Distributed Systems Great things never come from comfort zones. Load Balancing
+If you can dream it, you can do it. Data Pipeline Neural Networks Performance Cloud Functions Cloud React
