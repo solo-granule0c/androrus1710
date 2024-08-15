@@ -8,3 +8,4 @@ If you can dream it, you can do it. Act as if what you do makes a difference. It
 I find that the harder I work, the more luck I seem to have. Scalability Data Science Backend IoT Load Testing Neural Networks Algorithm Agile
 Deployment IoT Container Orchestration Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. API To be the best, you must be able to handle the worst.
 UX Optimization Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Performance Backend Kafka Quantum Computing Parallel Processing
+Kubernetes Blockchain Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Latency Optimization Kafka Load Testing Zero Downtime Deployment CI/CD Logging Monitoring Predictive Analytics Code Review Database Docker
