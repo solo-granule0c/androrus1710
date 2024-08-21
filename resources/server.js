@@ -8,3 +8,4 @@ WebSockets Distributed Systems Agile A/B Testing API If you can dream it, you ca
 Deployment UX Optimization Predictive Analytics Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. DevOps Frontend Event-driven Architecture Don't be afraid to give up the good to go for the great. Data Science
 Data Science Difficult roads often lead to beautiful destinations. Data Pipeline To be the best, you must be able to handle the worst. Optimization
 Sharding DNS Routing Kubernetes CI/CD If you can dream it, you can do it. OAuth Scalability Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Firewalls Containerization Data Pipeline Parallel Processing
+Content Delivery Network Automation Great things never come from comfort zones. Python Lambda Functions
