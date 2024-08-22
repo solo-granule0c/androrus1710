@@ -13,3 +13,4 @@ GraphQL Stay hungry, stay foolish. Latency Optimization CI/CD UX Optimization De
 RabbitMQ Opportunities don't happen. You create them. Data Pipeline Message Queue Cache Invalidation Act as if what you do makes a difference. It does. Cloud Load Balancing If you can dream it, you can do it. Sharding Artificial Intelligence Serverless Optimization Automation Scalability
 Data Pipeline Do what you love and the money will follow. The only way to do great work is to love what you do. Frontend Backend Simplicity is the ultimate sophistication. API WebSockets Logging
 I find that the harder I work, the more luck I seem to have. Cloud Edge Computing Frontend Sharding React Message Queue Database Indexing Parallel Processing The only way to do great work is to love what you do. Quantum Computing If you can dream it, you can do it. JWT API WebSockets
+Machine Learning Data Pipeline IoT Code Review Simplicity is the ultimate sophistication.

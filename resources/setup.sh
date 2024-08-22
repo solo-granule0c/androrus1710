@@ -12,3 +12,4 @@ IoT Microservices Frontend Backend Work hard in silence, let your success be you
 NLP Docker Zero Downtime Deployment API Database Indexing Version Control JavaScript Event Sourcing Code Review Success is how high you bounce when you hit bottom.
 Great things never come from comfort zones. Event-driven Architecture Opportunities don't happen. You create them. Testing Data Pipeline If you can dream it, you can do it. Load Testing GraphQL Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish.
 Database Indexing Optimization Automation Algorithm Logging
+RabbitMQ Zero Downtime Deployment Scalability Sharding Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Database Indexing WebSockets Container Orchestration
