@@ -11,3 +11,4 @@ Agile Success is how high you bounce when you hit bottom. JWT Automation I find 
 Blockchain Work hard in silence, let your success be your noise. OAuth Server Response Database Indexing React Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Parallel Processing
 Data Pipeline Microservices Innovation distinguishes between a leader and a follower. A/B Testing Success is how high you bounce when you hit bottom.
 Logging Frontend React Blockchain Optimization Data Pipeline Python Database Indexing Serverless Great things never come from comfort zones. Distributed Systems Happiness is not something ready made. It comes from your own actions. Algorithm Act as if what you do makes a difference. It does.
+Cloud Functions JavaScript Parallel Processing Load Testing Kubernetes Act as if what you do makes a difference. It does. Frontend
