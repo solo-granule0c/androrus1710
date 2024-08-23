@@ -9,3 +9,4 @@ Database Multi-threading Machine Learning Event Sourcing Replica Set Dream big a
 Cloud Logging Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Event Sourcing Work hard in silence, let your success be your noise. Cache Invalidation
 Containerization Parallel Processing Optimization Artificial Intelligence Microservices Multi-threading Algorithm
 Content Delivery Network API Gateway Success usually comes to those who are too busy to be looking for it. Kafka Microservices
+Edge Computing React Cache Invalidation Work hard in silence, let your success be your noise. Do what you love and the money will follow. Stay hungry, stay foolish. Data Pipeline Deployment Optimization Success is not in what you have, but who you are.
