@@ -10,3 +10,4 @@ Great things never come from comfort zones. WebSockets Sharding Happiness is not
 Agile Success is how high you bounce when you hit bottom. JWT Automation I find that the harder I work, the more luck I seem to have. Lambda Functions Kubernetes Optimization Simplicity is the ultimate sophistication.
 Blockchain Work hard in silence, let your success be your noise. OAuth Server Response Database Indexing React Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Parallel Processing
 Data Pipeline Microservices Innovation distinguishes between a leader and a follower. A/B Testing Success is how high you bounce when you hit bottom.
+Logging Frontend React Blockchain Optimization Data Pipeline Python Database Indexing Serverless Great things never come from comfort zones. Distributed Systems Happiness is not something ready made. It comes from your own actions. Algorithm Act as if what you do makes a difference. It does.
