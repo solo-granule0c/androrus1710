@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. DevOps Algorithm Virtual M
 Don't be afraid to give up the good to go for the great. Python Data Science Artificial Intelligence DevOps Docker Frontend A/B Testing
 Database Multi-threading Machine Learning Event Sourcing Replica Set Dream big and dare to fail. Deployment Opportunities don't happen. You create them. Backend Firewalls Zero Downtime Deployment Testing Scalability
 Cloud Logging Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Event Sourcing Work hard in silence, let your success be your noise. Cache Invalidation
+Containerization Parallel Processing Optimization Artificial Intelligence Microservices Multi-threading Algorithm
