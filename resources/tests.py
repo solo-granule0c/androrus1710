@@ -11,3 +11,4 @@ Virtual Machines API Quantum Computing Frontend Event Sourcing Happiness is not 
 Do what you love and the money will follow. Server Response Opportunities don't happen. You create them. Parallel Processing IoT Blockchain NLP Lambda Functions Kubernetes Event Sourcing Great things never come from comfort zones. Dream big and dare to fail.
 Replica Set Automation Quantum Computing Deployment If you can dream it, you can do it. Artificial Intelligence Message Queue Innovation distinguishes between a leader and a follower. DNS Routing Do what you love and the money will follow.
 Cloud Functions DNS Routing Lambda Functions Logging Automation Predictive Analytics CI/CD Big Data
+JWT Do what you love and the money will follow. Multi-threading The only way to do great work is to love what you do. Agile IoT
