@@ -12,3 +12,4 @@ RabbitMQ Python Testing Event-driven Architecture Backend Data Pipeline Opportun
 CI/CD Backend Cache Invalidation Dream big and dare to fail. WebSockets
 Frontend Neural Networks Replica Set If you can dream it, you can do it. Success is not in what you have, but who you are. Backend
 If you can dream it, you can do it. Big Data Lambda Functions Cloud Functions Deployment Great things never come from comfort zones. Agile Pull Request
+Performance Edge Computing Agile Automation Monitoring DevOps Data Science Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Kubernetes
