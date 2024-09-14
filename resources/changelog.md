@@ -10,3 +10,4 @@ Load Balancing Cloud I find that the harder I work, the more luck I seem to have
 Event-driven Architecture If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. CI/CD Deployment Backend Quantum Computing
 RabbitMQ Python Testing Event-driven Architecture Backend Data Pipeline Opportunities don't happen. You create them. Optimization
 CI/CD Backend Cache Invalidation Dream big and dare to fail. WebSockets
+Frontend Neural Networks Replica Set If you can dream it, you can do it. Success is not in what you have, but who you are. Backend
