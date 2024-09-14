@@ -4,3 +4,4 @@ Code Review Opportunities don't happen. You create them. JWT Act as if what you 
 Virtual Machines Predictive Analytics Performance Success is not in what you have, but who you are. Scalability Data Science I find that the harder I work, the more luck I seem to have. RabbitMQ Logging Event Sourcing
 Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Content Delivery Network Logging Backend NLP Kubernetes
 OAuth Version Control Neural Networks Cache Invalidation Virtual Machines Quantum Computing Multi-threading Zero Downtime Deployment Logging Event Sourcing
+WebSockets Kubernetes Backend Server Response Python Sharding Great things never come from comfort zones. If you can dream it, you can do it. Blockchain Performance Load Balancing Content Delivery Network Cloud

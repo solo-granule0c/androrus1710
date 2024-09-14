@@ -11,3 +11,4 @@ Event-driven Architecture If you can dream it, you can do it. Success usually co
 RabbitMQ Python Testing Event-driven Architecture Backend Data Pipeline Opportunities don't happen. You create them. Optimization
 CI/CD Backend Cache Invalidation Dream big and dare to fail. WebSockets
 Frontend Neural Networks Replica Set If you can dream it, you can do it. Success is not in what you have, but who you are. Backend
+If you can dream it, you can do it. Big Data Lambda Functions Cloud Functions Deployment Great things never come from comfort zones. Agile Pull Request

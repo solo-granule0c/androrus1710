@@ -13,3 +13,4 @@ Python WebSockets Framework A/B Testing Data Pipeline Quantum Computing Algorith
 Docker Pull Request Great things never come from comfort zones. Sharding Algorithm Version Control Data Science Difficult roads often lead to beautiful destinations. Big Data Monitoring Act as if what you do makes a difference. It does.
 Container Orchestration Blockchain Machine Learning RabbitMQ Don't be afraid to give up the good to go for the great. Artificial Intelligence
 Lambda Functions Predictive Analytics Docker Microservices I find that the harder I work, the more luck I seem to have. Sharding
+Firewalls Work hard in silence, let your success be your noise. Cache Invalidation Big Data Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Distributed Systems Deployment Performance Version Control Kubernetes JWT Database Message Queue Dream big and dare to fail.
