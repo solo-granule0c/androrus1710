@@ -9,3 +9,4 @@ Scalability JWT Testing DNS Routing Serverless Success doesn’t just find you. Yo
 Load Balancing Cloud I find that the harder I work, the more luck I seem to have. Machine Learning WebSockets Serverless Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Latency Optimization Stay hungry, stay foolish. RabbitMQ NLP Big Data Dream big and dare to fail. A/B Testing
 Event-driven Architecture If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. CI/CD Deployment Backend Quantum Computing
 RabbitMQ Python Testing Event-driven Architecture Backend Data Pipeline Opportunities don't happen. You create them. Optimization
+CI/CD Backend Cache Invalidation Dream big and dare to fail. WebSockets
