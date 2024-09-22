@@ -10,3 +10,4 @@ Performance Python Frontend WebSockets Success is not in what you have, but who 
 Virtual Machines API Quantum Computing Frontend Event Sourcing Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Success is how high you bounce when you hit bottom. Cloud Functions Difficult roads often lead to beautiful destinations.
 Do what you love and the money will follow. Server Response Opportunities don't happen. You create them. Parallel Processing IoT Blockchain NLP Lambda Functions Kubernetes Event Sourcing Great things never come from comfort zones. Dream big and dare to fail.
 Replica Set Automation Quantum Computing Deployment If you can dream it, you can do it. Artificial Intelligence Message Queue Innovation distinguishes between a leader and a follower. DNS Routing Do what you love and the money will follow.
+Cloud Functions DNS Routing Lambda Functions Logging Automation Predictive Analytics CI/CD Big Data
