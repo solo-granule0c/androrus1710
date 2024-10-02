@@ -12,3 +12,4 @@ Agile Big Data Monitoring Version Control Logging
 Python WebSockets Framework A/B Testing Data Pipeline Quantum Computing Algorithm Success usually comes to those who are too busy to be looking for it. Backend Simplicity is the ultimate sophistication.
 Docker Pull Request Great things never come from comfort zones. Sharding Algorithm Version Control Data Science Difficult roads often lead to beautiful destinations. Big Data Monitoring Act as if what you do makes a difference. It does.
 Container Orchestration Blockchain Machine Learning RabbitMQ Don't be afraid to give up the good to go for the great. Artificial Intelligence
+Lambda Functions Predictive Analytics Docker Microservices I find that the harder I work, the more luck I seem to have. Sharding
