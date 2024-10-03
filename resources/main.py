@@ -8,3 +8,4 @@ Logging Algorithm Multi-threading Happiness is not something ready made. It come
 Serverless Simplicity is the ultimate sophistication. Load Testing Machine Learning Cloud Monitoring Blockchain Optimization RabbitMQ API Deployment
 JWT Dream big and dare to fail. Blockchain Artificial Intelligence Load Balancing
 Python Microservices Great things never come from comfort zones. Load Testing Testing Parallel Processing Monitoring Container Orchestration I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Automation Neural Networks Quantum Computing
+UX Optimization Docker DevOps Quantum Computing JavaScript Optimization Stay hungry, stay foolish. Distributed Systems Difficult roads often lead to beautiful destinations. Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower.
