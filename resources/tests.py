@@ -8,3 +8,4 @@ Lambda Functions Difficult roads often lead to beautiful destinations. Message Q
 Testing Great things never come from comfort zones. Cloud Multi-threading Replica Set Data Pipeline
 Performance Python Frontend WebSockets Success is not in what you have, but who you are.
 Virtual Machines API Quantum Computing Frontend Event Sourcing Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Success is how high you bounce when you hit bottom. Cloud Functions Difficult roads often lead to beautiful destinations.
+Do what you love and the money will follow. Server Response Opportunities don't happen. You create them. Parallel Processing IoT Blockchain NLP Lambda Functions Kubernetes Event Sourcing Great things never come from comfort zones. Dream big and dare to fail.
