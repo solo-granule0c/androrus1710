@@ -8,3 +8,4 @@ Database Indexing Scalability Security Great things never come from comfort zone
 Algorithm Deployment Message Queue Great things never come from comfort zones. Scalability Backend GraphQL Cloud Functions Sharding Replica Set
 Logging Message Queue CI/CD Virtual Machines Performance API I find that the harder I work, the more luck I seem to have. Optimization DNS Routing Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Kafka Neural Networks A/B Testing
 Success is how high you bounce when you hit bottom. Containerization Parallel Processing GraphQL Cloud Functions Success is not in what you have, but who you are. Virtual Machines Testing Multi-threading Monitoring I find that the harder I work, the more luck I seem to have. JavaScript Scalability
+JavaScript Cloud Dream big and dare to fail. Database Indexing To be the best, you must be able to handle the worst. RabbitMQ Message Queue
