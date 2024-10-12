@@ -6,3 +6,4 @@ WebSockets Data Science Containerization Machine Learning Message Queue
 Latency Optimization Load Balancing Success is not in what you have, but who you are. Monitoring Framework Cloud
 Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. React UX Optimization CI/CD Automation Data Pipeline
 Scalability JWT Testing DNS Routing Serverless Success doesn’t just find you. You have to go out and get it. Backend Cache Invalidation Event-driven Architecture Container Orchestration Work hard in silence, let your success be your noise.
+Load Balancing Cloud I find that the harder I work, the more luck I seem to have. Machine Learning WebSockets Serverless Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Latency Optimization Stay hungry, stay foolish. RabbitMQ NLP Big Data Dream big and dare to fail. A/B Testing
