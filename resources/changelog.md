@@ -5,3 +5,4 @@ Optimization Cloud Functions Monitoring To be the best, you must be able to hand
 WebSockets Data Science Containerization Machine Learning Message Queue
 Latency Optimization Load Balancing Success is not in what you have, but who you are. Monitoring Framework Cloud
 Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. React UX Optimization CI/CD Automation Data Pipeline
+Scalability JWT Testing DNS Routing Serverless Success doesn’t just find you. You have to go out and get it. Backend Cache Invalidation Event-driven Architecture Container Orchestration Work hard in silence, let your success be your noise.

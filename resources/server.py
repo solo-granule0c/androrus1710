@@ -4,3 +4,4 @@ Multi-threading JWT Performance Replica Set IoT CI/CD Event-driven Architecture 
 Code Review Cloud Kubernetes Virtual Machines Kafka Distributed Systems Sharding Great things never come from comfort zones. Zero Downtime Deployment Content Delivery Network Database Indexing
 RabbitMQ Data Pipeline Don't be afraid to give up the good to go for the great. Event Sourcing Dream big and dare to fail. Sharding Success is not in what you have, but who you are.
 Server Response Predictive Analytics Multi-threading Backend Frontend Pull Request Replica Set
+If you can dream it, you can do it. Act as if what you do makes a difference. It does. Multi-threading Optimization Data Science Stay hungry, stay foolish. Monitoring Replica Set Distributed Systems Kubernetes Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst.
