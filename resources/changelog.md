@@ -4,3 +4,4 @@ Blockchain Big Data To be the best, you must be able to handle the worst. IoT Su
 Optimization Cloud Functions Monitoring To be the best, you must be able to handle the worst. Cache Invalidation IoT Stay hungry, stay foolish. Kafka Frontend Great things never come from comfort zones. NLP Success is not in what you have, but who you are. Automation OAuth
 WebSockets Data Science Containerization Machine Learning Message Queue
 Latency Optimization Load Balancing Success is not in what you have, but who you are. Monitoring Framework Cloud
+Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. React UX Optimization CI/CD Automation Data Pipeline
