@@ -3,3 +3,4 @@ If you can dream it, you can do it. Quantum Computing Act as if what you do make
 Docker API Database Indexing Backend Cloud Functions
 IoT A/B Testing Container Orchestration Great things never come from comfort zones. Monitoring Event-driven Architecture Machine Learning Latency Optimization Edge Computing
 Artificial Intelligence Simplicity is the ultimate sophistication. Data Pipeline Edge Computing Containerization Cache Invalidation Parallel Processing Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Code Review Latency Optimization JWT Container Orchestration Performance Big Data
+GraphQL Predictive Analytics JavaScript Dream big and dare to fail. OAuth Database Sharding A/B Testing Data Pipeline Scalability Frontend
