@@ -8,3 +8,4 @@ Pull Request Success doesn’t just find you. You have to go out and get it. Quant
 Success usually comes to those who are too busy to be looking for it. Sharding Edge Computing Replica Set Do what you love and the money will follow.
 Do what you love and the money will follow. Virtual Machines Sharding Scalability I find that the harder I work, the more luck I seem to have. A/B Testing Machine Learning Automation JWT Performance IoT The only way to do great work is to love what you do. OAuth
 JavaScript Stay hungry, stay foolish. DevOps Optimization Predictive Analytics Python Database Logging Don't be afraid to give up the good to go for the great. Version Control Pull Request Replica Set Quantum Computing Blockchain Microservices
+DevOps Message Queue RabbitMQ Difficult roads often lead to beautiful destinations. CI/CD
