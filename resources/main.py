@@ -6,3 +6,4 @@ Edge Computing API Gateway Predictive Analytics Kubernetes Data Science If you c
 I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Version Control Scalability Message Queue Cloud Functions Container Orchestration Testing JWT API
 Logging Algorithm Multi-threading Happiness is not something ready made. It comes from your own actions. Pull Request
 Serverless Simplicity is the ultimate sophistication. Load Testing Machine Learning Cloud Monitoring Blockchain Optimization RabbitMQ API Deployment
+JWT Dream big and dare to fail. Blockchain Artificial Intelligence Load Balancing
