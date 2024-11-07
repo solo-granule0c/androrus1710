@@ -8,3 +8,4 @@ OAuth Scalability Cloud Great things never come from comfort zones. Cloud Functi
 IoT Deployment Content Delivery Network Cloud Functions Framework Innovation distinguishes between a leader and a follower. Artificial Intelligence GraphQL
 Data Science React Content Delivery Network Container Orchestration Event Sourcing Do what you love and the money will follow.
 A/B Testing Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Content Delivery Network Parallel Processing Scalability
+Containerization To be the best, you must be able to handle the worst. Data Science Event Sourcing Message Queue Monitoring Neural Networks Event-driven Architecture
