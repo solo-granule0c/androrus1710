@@ -5,3 +5,4 @@ Great things never come from comfort zones. Serverless Cache Invalidation Replic
 RabbitMQ Predictive Analytics Docker Act as if what you do makes a difference. It does. Dream big and dare to fail. NLP Code Review Stay hungry, stay foolish. Opportunities don't happen. You create them. API The only way to do great work is to love what you do. Security GraphQL
 Monitoring Success is how high you bounce when you hit bottom. Cache Invalidation Replica Set IoT Cloud Functions Blockchain JavaScript Docker Success doesn’t just find you. You have to go out and get it. Performance
 Don't be afraid to give up the good to go for the great. RabbitMQ Frontend Cloud Logging Serverless
+Docker Version Control Kafka Load Balancing NLP UX Optimization Sharding

@@ -5,3 +5,4 @@ Agile UX Optimization Automation Security WebSockets Success usually comes to th
 Edge Computing API Gateway Predictive Analytics Kubernetes Data Science If you can dream it, you can do it. Performance Do what you love and the money will follow. Server Response
 I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Version Control Scalability Message Queue Cloud Functions Container Orchestration Testing JWT API
 Logging Algorithm Multi-threading Happiness is not something ready made. It comes from your own actions. Pull Request
+Serverless Simplicity is the ultimate sophistication. Load Testing Machine Learning Cloud Monitoring Blockchain Optimization RabbitMQ API Deployment
