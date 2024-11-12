@@ -6,3 +6,4 @@ Serverless GraphQL I find that the harder I work, the more luck I seem to have. 
 Optimization Don't be afraid to give up the good to go for the great. Cloud Functions Message Queue Predictive Analytics NLP Deployment
 Database Indexing Scalability Security Great things never come from comfort zones. Firewalls WebSockets Algorithm Artificial Intelligence API Gateway Event Sourcing Optimization A/B Testing Neural Networks
 Algorithm Deployment Message Queue Great things never come from comfort zones. Scalability Backend GraphQL Cloud Functions Sharding Replica Set
+Logging Message Queue CI/CD Virtual Machines Performance API I find that the harder I work, the more luck I seem to have. Optimization DNS Routing Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Kafka Neural Networks A/B Testing
