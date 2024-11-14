@@ -6,3 +6,4 @@ Replica Set Kubernetes Difficult roads often lead to beautiful destinations. Lam
 Neural Networks Predictive Analytics Performance Event Sourcing Deployment Agile Sharding Security OAuth Happiness is not something ready made. It comes from your own actions.
 OAuth Scalability Cloud Great things never come from comfort zones. Cloud Functions Neural Networks UX Optimization Code Review Cache Invalidation Database Indexing Parallel Processing Automation
 IoT Deployment Content Delivery Network Cloud Functions Framework Innovation distinguishes between a leader and a follower. Artificial Intelligence GraphQL
+Data Science React Content Delivery Network Container Orchestration Event Sourcing Do what you love and the money will follow.
