@@ -9,3 +9,4 @@ Blockchain Pull Request Automation JWT If you can dream it, you can do it.
 React Zero Downtime Deployment Container Orchestration Python Artificial Intelligence Firewalls Backend
 Success is not in what you have, but who you are. A/B Testing API OAuth Don't be afraid to give up the good to go for the great. Version Control Firewalls Cloud Functions
 Agile Big Data Monitoring Version Control Logging
+Python WebSockets Framework A/B Testing Data Pipeline Quantum Computing Algorithm Success usually comes to those who are too busy to be looking for it. Backend Simplicity is the ultimate sophistication.
