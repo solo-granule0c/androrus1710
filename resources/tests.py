@@ -5,3 +5,4 @@ Monitoring Zero Downtime Deployment Success is not in what you have, but who you
 Optimization CI/CD Content Delivery Network Predictive Analytics The only way to do great work is to love what you do. Framework API DNS Routing GraphQL Virtual Machines Event Sourcing React Act as if what you do makes a difference. It does. Testing Cloud Functions
 WebSockets Algorithm Python CI/CD API Gateway Quantum Computing Innovation distinguishes between a leader and a follower. Message Queue Lambda Functions Optimization DevOps IoT
 Lambda Functions Difficult roads often lead to beautiful destinations. Message Queue If you can dream it, you can do it. JWT Event-driven Architecture Opportunities don't happen. You create them. DNS Routing Serverless Database
+Testing Great things never come from comfort zones. Cloud Multi-threading Replica Set Data Pipeline
