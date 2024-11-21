@@ -5,3 +5,4 @@ Data Pipeline Work hard in silence, let your success be your noise. Logging DNS 
 Replica Set Kubernetes Difficult roads often lead to beautiful destinations. Lambda Functions Simplicity is the ultimate sophistication. Deployment The only way to do great work is to love what you do. API Gateway Cloud If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. RabbitMQ
 Neural Networks Predictive Analytics Performance Event Sourcing Deployment Agile Sharding Security OAuth Happiness is not something ready made. It comes from your own actions.
 OAuth Scalability Cloud Great things never come from comfort zones. Cloud Functions Neural Networks UX Optimization Code Review Cache Invalidation Database Indexing Parallel Processing Automation
+IoT Deployment Content Delivery Network Cloud Functions Framework Innovation distinguishes between a leader and a follower. Artificial Intelligence GraphQL
