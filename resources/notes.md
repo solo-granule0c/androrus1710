@@ -8,3 +8,4 @@ Blockchain Deployment Lambda Functions Message Queue Kubernetes Don't be afraid 
 Blockchain Pull Request Automation JWT If you can dream it, you can do it.
 React Zero Downtime Deployment Container Orchestration Python Artificial Intelligence Firewalls Backend
 Success is not in what you have, but who you are. A/B Testing API OAuth Don't be afraid to give up the good to go for the great. Version Control Firewalls Cloud Functions
+Agile Big Data Monitoring Version Control Logging
