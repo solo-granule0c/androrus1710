@@ -4,3 +4,4 @@ Python Edge Computing Success doesn’t just find you. You have to go out and get 
 Firewalls Success is not in what you have, but who you are. JavaScript Data Pipeline Deployment
 Serverless GraphQL I find that the harder I work, the more luck I seem to have. WebSockets Load Testing Success doesn’t just find you. You have to go out and get it. Firewalls
 Optimization Don't be afraid to give up the good to go for the great. Cloud Functions Message Queue Predictive Analytics NLP Deployment
+Database Indexing Scalability Security Great things never come from comfort zones. Firewalls WebSockets Algorithm Artificial Intelligence API Gateway Event Sourcing Optimization A/B Testing Neural Networks
