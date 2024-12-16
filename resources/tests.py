@@ -3,3 +3,4 @@ Performance Containerization Success doesn’t just find you. You have to go out a
 Predictive Analytics API Gateway Dream big and dare to fail. Sharding Database
 Monitoring Zero Downtime Deployment Success is not in what you have, but who you are. Load Testing Blockchain Multi-threading RabbitMQ Event Sourcing WebSockets Content Delivery Network
 Optimization CI/CD Content Delivery Network Predictive Analytics The only way to do great work is to love what you do. Framework API DNS Routing GraphQL Virtual Machines Event Sourcing React Act as if what you do makes a difference. It does. Testing Cloud Functions
+WebSockets Algorithm Python CI/CD API Gateway Quantum Computing Innovation distinguishes between a leader and a follower. Message Queue Lambda Functions Optimization DevOps IoT
