@@ -2,3 +2,4 @@ Cloud Functions Great things never come from comfort zones. Do what you love and
 Cloud Functions Kubernetes Data Pipeline Quantum Computing Logging A/B Testing Sharding Container Orchestration Success is not in what you have, but who you are.
 Artificial Intelligence Backend OAuth Deployment Blockchain Kubernetes CI/CD Success is how high you bounce when you hit bottom. Data Pipeline Load Testing Database Code Review Success doesn’t just find you. You have to go out and get it. Serverless
 Pull Request Performance API Message Queue Load Testing Testing Optimization UX Optimization Event-driven Architecture Replica Set
+RabbitMQ Container Orchestration Neural Networks Cloud Functions CI/CD Docker Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. DNS Routing Latency Optimization Python Security Agile
