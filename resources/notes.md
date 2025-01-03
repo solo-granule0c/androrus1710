@@ -4,3 +4,4 @@ Monitoring Server Response WebSockets Event Sourcing DevOps Success is how high 
 Database Indexing Success is how high you bounce when you hit bottom. Artificial Intelligence WebSockets A/B Testing Server Response Security Event-driven Architecture Kubernetes Message Queue Don't be afraid to give up the good to go for the great. Cloud CI/CD
 Edge Computing DevOps Docker NLP Security
 The only way to do great work is to love what you do. IoT If you can dream it, you can do it. Latency Optimization Framework Performance Frontend
+Blockchain Deployment Lambda Functions Message Queue Kubernetes Don't be afraid to give up the good to go for the great. Algorithm If you can dream it, you can do it.
