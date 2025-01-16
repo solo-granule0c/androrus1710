@@ -1,3 +1,4 @@
 Cloud Functions Great things never come from comfort zones. Do what you love and the money will follow. Framework Docker NLP Difficult roads often lead to beautiful destinations. Pull Request Testing OAuth
 Cloud Functions Kubernetes Data Pipeline Quantum Computing Logging A/B Testing Sharding Container Orchestration Success is not in what you have, but who you are.
 Artificial Intelligence Backend OAuth Deployment Blockchain Kubernetes CI/CD Success is how high you bounce when you hit bottom. Data Pipeline Load Testing Database Code Review Success doesn’t just find you. You have to go out and get it. Serverless
+Pull Request Performance API Message Queue Load Testing Testing Optimization UX Optimization Event-driven Architecture Replica Set
