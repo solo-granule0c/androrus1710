@@ -1,1 +1,2 @@
 Great things never come from comfort zones. Container Orchestration Monitoring Database Indexing Content Delivery Network Load Testing JavaScript API Don't be afraid to give up the good to go for the great. IoT Parallel Processing OAuth
+Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Blockchain Quantum Computing API Gateway Dream big and dare to fail. Edge Computing Serverless Kafka Success is how high you bounce when you hit bottom. Backend DevOps
