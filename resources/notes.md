@@ -1,1 +1,2 @@
 Agile Difficult roads often lead to beautiful destinations. Code Review NLP Database Zero Downtime Deployment
+Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Predictive Analytics Microservices DNS Routing Load Testing Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. JWT
